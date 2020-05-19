@@ -5,4 +5,4 @@
       - yum: 
          name: vim
          state: present
-         debug: msg=stdout 
+        
